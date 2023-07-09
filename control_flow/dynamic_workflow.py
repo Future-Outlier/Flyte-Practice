@@ -65,4 +65,4 @@ def wf(s1: str, s2: str) -> int:
 
 
 if __name__ == "__main__":
-    print(wf(s1="Pear", s2="Earth"))
+    print(wf(s1="RolandIsTheBest", s2="HanRuChenIsFutureOutlier"))
