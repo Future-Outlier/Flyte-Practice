@@ -1,0 +1,7 @@
+# imageSpec.yaml
+python_version: 3.11
+registry: ghcr.io/unionai-oss
+packages:
+  - sklearn
+env:
+  Debug: "True"
